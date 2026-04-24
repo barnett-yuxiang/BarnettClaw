@@ -1,8 +1,10 @@
-## 2026-04 WIP
+## Roadmap
+
+### 2026-04 WIP
 - [ ] Keep tracking upgrades and fixing issues to maintain availability
 - [x] Switch embedding provider to Gemini or Qwen
 
-## 2026-03 Done
+### 2026-03 Done
 
 - [x] Metabase data pipeline
 - [x] Telegram / Feishu
