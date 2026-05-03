@@ -1,9 +1,14 @@
 ## Roadmap
 
-### 2026-04 WIP
+### 2026-05 WIP
 
 - [ ] Keep tracking upgrades and fixing issues to maintain availability
-- [x] Switch embedding provider to Gemini or Qwen
+- [x] Upgrade OpenClaw to 2026.5.2
+
+### 2026-04 Done
+
+- [x] Upgrade OpenClaw to 2026.4.30
+- [x] Switch embedding provider to Gemini or Qwen, HKD $0.07
 
 ### 2026-03 Done
 
